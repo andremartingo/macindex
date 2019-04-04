@@ -34,27 +34,27 @@ features                                  :
 
   - title                                 : Clean Design
     description                           : Not just how it looks – but also how it works, and how it feels.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : mobile
 
-  - title                                 : Never forget a thing.
+  - title                                 : Never forget a thing
     description                           : Make sure you don't let your important tasks slip away.
     fontawesome_icon_name                 : magic
 
   - title                                 : Synchronize with Apple's Reminders
     description                           : Routify uses the reminders that are already on your iCloud, so you can keep on utilizing Apple's Reminders. You'll have the capacity to set up the application quickly.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : sync
     
   - title                                 : Never miss another reminder
     description                           : View your upcoming reminders in the For You tab to see what's most important right now.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : sticky-note
 
   - title                                 : iCloud Sync
     description                           : When create a new reminder it will sync with your currently reminders.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : sync
 
   - title                                 : Privacy is protected
     description                           : The contents of your reminders are never sent to our servers. Your reminders are only viewable on your own devices.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : user-secret
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
